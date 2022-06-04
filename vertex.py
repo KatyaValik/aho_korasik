@@ -6,3 +6,4 @@ class Vertex:
         self.pch = None
         self.link = None
         self.go = None
+        self.text = None
